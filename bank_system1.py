@@ -1,3 +1,10 @@
+"""
+File: bank_system.py
+Author: Zaiqiang
+Date: April 25, 2024
+Description: A simple bank system implementation in Python
+Version: 1.0
+"""
 import csv
 import logging
 from datetime import datetime

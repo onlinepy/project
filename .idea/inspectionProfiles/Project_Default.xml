@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="pycparser-2.21-py2.py3-none-any.whl" />
+            <item index="1" class="java.lang.String" itemvalue="pdfminer.six-20221105-py3-none-any.whl" />
+            <item index="2" class="java.lang.String" itemvalue="charset_normalizer-3.1.0-cp310-cp310-macosx_10_9_x86_64.whl" />
+            <item index="3" class="java.lang.String" itemvalue="cryptography-39.0.2-cp36-abi3-macosx_10_12_x86_64.whl" />
+            <item index="4" class="java.lang.String" itemvalue="pdfplumber-0.8.0-py3-none-any.whl" />
+            <item index="5" class="java.lang.String" itemvalue="cffi-1.15.1-cp310-cp310-macosx_10_9_x86_64.whl" />
+            <item index="6" class="java.lang.String" itemvalue="Wand-0.6.11-py2.py3-none-any.whl" />
+            <item index="7" class="java.lang.String" itemvalue="Pillow-9.4.0-2-cp310-cp310-macosx_10_10_x86_64.whl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
